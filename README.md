@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Clamp calculator by grizhlieCodes](https://grizhlie-clamp-calculator.netlify.app/)
+- [Clamp calculator by ](https://grizhlie-clamp-calculator.netlify.app/) [ **grizhlieCodes**](https://github.com/grizhlieCodes)
 
 ## Author
 
